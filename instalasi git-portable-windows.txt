@@ -1,5 +1,4 @@
 1. Download dulu software PortableGit
 2. Extract ke directory C:
 3. Setting Environment Variable untuk Path Git
-4.dwdw
-5. Restart Computer
+4. Restart COmputer
