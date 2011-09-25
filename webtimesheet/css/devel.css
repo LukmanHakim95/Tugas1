@@ -1,0 +1,193 @@
+body {
+	font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+form{
+	margin: 0;
+	padding: 0;
+}
+
+th {
+	margin: 0;
+	text-align: left;
+	border-bottom: 1px dotted silver;
+}
+
+a {
+	padding: 5px;
+	margin: 5px;
+}
+
+a:hover {
+	background: #DDD;
+}
+
+td {
+	border-bottom: 1px solid silver;
+	padding-bottom: 5px;
+}
+
+ul.leftmenu {
+	padding: 0;
+	margin-top: 0;
+}
+
+ul li {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+	margin-top: 5px;
+}
+
+H1.header2 {
+	border-bottom: 2px solid silver;
+	text-align: center;
+	background: black;
+	-moz-border-radius :12px 12px 0px 0px;
+	margin: 0;
+}
+
+H2 {
+	margin: 0;
+	padding: 5px;
+	font-size: 0.7em;
+	font-weight: normal;
+	text-align: center;
+	background: black;
+	color: white;
+}
+
+H3 {
+	border-bottom: 2px dotted silver;
+	text-align: left;
+	margin: 0;
+}
+
+H4 {
+	margin: 0;
+	padding: 5px;
+	text-align: left;
+	background: #ccc;
+}
+
+#Loginbox {
+	margin: 0 auto;	
+	padding: 0;
+	width: 560px;
+	height: 100px;
+	border: 3px solid silver; 	
+	-moz-border-radius :15px 15px 10px 10px;
+	-moz-box-shadow :2px 2px 2px grey;
+}
+
+#container {
+	margin: 0 auto;
+	padding: 0;
+	width: 800px;
+}
+
+#leftmenu {
+	width: 30%;
+	float: left;
+	text-indent: 7px;
+}
+
+#rightmenu {
+	width: 70%;
+	float: right;
+	text-indent: 7px;
+}
+
+#rightmenu table {
+	padding: 5px;
+	width: 100%;
+	margin-top: 5px;
+}
+
+.textinput {
+	background-image: url(../img/textfield.gif);
+	background-position: top left;
+	background-repeat: no-repeat;
+	border-left: 1px solid #a8a7bf;
+	border-top: 1px solid #a8a7bf;
+	border-bottom: 1px solid #a8a7bf;
+	border-right: 1px solid #a8a7bf;
+	padding: 2px;
+	margin: 0;
+	height: 22px;
+	width: 120px;
+	padding-left: 4px;
+	vertical-align: top;
+}
+
+.loginimage {
+	background-image: url(../img/loginimage.gif);
+	background-position: left;
+	background-repeat: no-repeat;
+	height: 20px;
+	padding-left: 103px;
+	margin:0;
+}
+
+.passimage {
+	background-image: url(../img/passimage.gif);
+	background-position: left;
+	background-repeat: no-repeat;
+	padding-left: 103px;
+	height: 20px;
+	margin: 0;
+}
+
+.firstbatch {
+	position: relative;
+	top: 5px;
+	left: 5px;
+	font-size: 0.8em;
+	font-weight: bold;
+}
+
+ul.rightaligned {
+	margin: 0;
+	padding: 5px;
+	display: block;
+}
+
+ul.rightaligned li{
+	margin: 0;
+	padding: 5px;
+	display: block;
+	text-align: right;
+	padding-right: 250px;
+}
+
+table.timesheet td {
+	border-top: 1px solid silver;
+	border-bottom: 0;
+	padding: 5px;
+}
+
+
+.loginbutton {
+	height: 25px;
+	background: black;
+	color: white;
+	-moz-border-radius :10px 10px 10px 10px;
+	-moz-box-shadow : 0 0 2px 2px grey;
+	padding-bottom : 2px;
+}
+
+h1.header {
+	color: yellow;
+	border-bottom: 2px solid silver;
+	text-align: center;
+	background: black;
+	margin: 0;	
+}
+
+h2.b {
+	-moz-border-radius :15px 15px 0 0;
+}
+
+#login {
+	padding-top: 17%;
+}
